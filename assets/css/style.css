@@ -1,0 +1,48 @@
+/*Général*/
+fieldset{
+    margin-top: 1px;
+}
+
+.PartieBleue, .PartieViolette, .PartieRose{
+    padding-top: 40px;
+}
+
+label{
+    margin-left:40px;
+}
+
+div{
+    white-space: pre-line;
+}
+/*Partie bleue*/
+#VotreIdentite, .PartieBleue{
+    background-color:#2474a9;
+}
+
+.PartieBleue{
+    padding-bottom: 35px;
+}
+/*Partie violette*/
+#AdresseDeLivraison, .PartieViolette{
+    background-color:#9a12b4;
+}
+
+.partieviolette{
+    padding-bottom 35px;
+}
+/*Partie rose*/
+#InfoReglement, .PartieRose{
+    background-color:#db0a5b;
+}
+
+.PartieRose{
+    padding-bottom: 35px;
+}
+
+.visa, .mastercard{
+    margin-left:90px;
+}
+
+.TypeCarte{
+    margin-left:0px;
+}
